@@ -2,5 +2,12 @@
   <component name="PrintSettings">
     <option name="printScope" value="1" />
     <option name="COLOR_PRINTING" value="true" />
+    <option name="FONT_NAME" value="Yu Gothic Regular" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="TOP_MARGIN" value="0.0" />
+    <option name="BOTTOM_MARGIN" value="0.0" />
+    <option name="LEFT_MARGIN" value="0.0" />
+    <option name="RIGHT_MARGIN" value="0.0" />
+    <option name="DRAW_BORDER" value="false" />
   </component>
 </application>
